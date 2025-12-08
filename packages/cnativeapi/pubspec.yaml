@@ -22,8 +22,6 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        ffiPlugin: true
       linux:
         ffiPlugin: true
       macos:
